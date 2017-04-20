@@ -1,0 +1,15 @@
+Hadoop可以运行在三种模式下：	5
+import	9
+org.apache.hadoop.conf.Configuration;	1
+org.apache.hadoop.fs.Path;	1
+org.apache.hadoop.io.IntWritable;	1
+org.apache.hadoop.io.Text;	1
+org.apache.hadoop.mapreduce.Job;	1
+org.apache.hadoop.mapreduce.Mapper;	1
+org.apache.hadoop.mapreduce.Reducer;	1
+org.apache.hadoop.mapreduce.lib.input.FileInputFormat;	1
+org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;	1
+伪分布模式	5
+前言	5
+单机模式	5
+完全分布式模式	5
